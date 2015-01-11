@@ -15,4 +15,4 @@ Segundo informações de servidora da Administração Regional, em 30/12/2014 te
 
 Os membros do Calango Hacker Clube entendem que o Espaço Hub é essencial para o fomento da cultura digital livre e colaborativa no Distrito Federal e se propõe a auxiliar o Governo do Distrito Federal por meio de sua Secretaria de Turismo e a Administração de Brasília a realizar todos os trâmites necessários para a reabertura do espaço.
 
-
+Este repositório contém propostas de projeto e demais documentos que se façam necessários para a consecução deste fim.
