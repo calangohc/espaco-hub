@@ -1,18 +1,26 @@
 # Espaço Hub Parque Digital
-Em 23/10/2014, a Administração Regional de Brasília expediu a Ordem de Serviço nº 192 que criava o Espaço HUB Parque Digital. A Ordem de Serviço foi publicada no Diário Oficial do Distrito Federal, na Seção 01 da Edição 226, nos termos abaixo:
 
-COORDENADORIA DAS CIDADES<br>
-ADMINISTRAÇÃO REGIONAL DE BRASÍLIA<br>
-ORDEM DE SERVIÇO Nº 192, DE 23 DE OUTUBRO DE 2014.<br>
-O ADMINISTRADOR REGIONAL DE BRASÍLIA, DA COORDENADORIA DAS CIDADES, DA CASA CIVIL, DA GOVERNADORIA DO DISTRITO FEDERAL, no uso das atribuições regimentais que lhe confere o Decreto Distrital nº 16.246/1994 e tendo em vista o constante nos autos do Processo 141.003.461/2014, RESOLVE:<br>
-Art. 1° Implementar, no Anexo II da Administração do Parque da Cidade Dona Sarah Kubitschek, o Espaço HUB Parque Digital com o objetivo de realizar atividades de cultura digital livre e colaborativa.<br>
-Art. 2º Fica a Diretoria do Parque Sarah Kubitschek responsável por elaborar o manual de normas e procedimentos a serem seguidos pela comunidade.<br>
-Art. 3º O espaço é aberto ao público e está sob a coordenação da Diretoria do Parque da Cidade Dona Sarah Kubitschek.<br>
-Art. 4º Esta Ordem de Serviço entra em vigor na data de sua publicação. <br>
-JEAN CARMO BARBOSA
+O Espaço Hub Parque Digital é um espaço público voltado a atividades de cultura digital livre e colaborativa, aberto ao público e coordenado pela Diretoria do Parque da Cidade Dona Sarah Kubitschek.
 
-Segundo informações de servidora da Administração Regional, em 30/12/2014 teria sido assinada a Ordem de Serviço nº 224, que revoga a Ordem de Serviço nº 192 acima, fazendo com que o Espaço Hub deixasse de existir.
+Por que "hub"?
 
-Os membros do Calango Hacker Clube entendem que o Espaço Hub é essencial para o fomento da cultura digital livre e colaborativa no Distrito Federal e se propõe a auxiliar o Governo do Distrito Federal por meio de sua Secretaria de Turismo e a Administração de Brasília a realizar todos os trâmites necessários para a reabertura do espaço.
+Em informática, um hub é um concentrador, um dispositivo que permite a conexão em redes de computadores.
 
-Este repositório contém propostas de projeto e demais documentos que se façam necessários para a consecução deste fim.
+A proposta do Espaço Hub Parque Digital é servir como um concentrador, mas de pessoas. A ideia é que pessoas de diferentes grupos sociais se conectem, sem filtros. Quando você conhece uma pessoa, que conhece outra pessoa, que conhece uma terceira, você forma uma verdadeira rede social. 
+
+Cada pessoa tem uma rede de conexões pessoais própria e, por vezes, as conexões entre as diferentes redes é fraca, com poucos elos em comum. O Espaço funcionaria como um ponto de interconexão de redes, criando mais vínculos entre pessoas que, a primeira vista, não se interligam. 
+
+Ao Espaço Hub são bem vindos artistas, blogueiros, técnicos em eletrônica, músicos, estilistas, programadores, videógrafos, DJ's e quem mais estiver disposto a aprender ou a passar adiante o que já tiver aprendido.
+
+No Parque?
+
+O Espaço Hub Parque Digital esteve em funcionamento no Anexo II da Administração do Parque da Cidade Dona Sarah Kubitschek entre os meses de outubro a dezembro de 2014. A localização favorece as atividades culturais do Espaço por ser um ponto central de Brasília e ser próximo ao local de ensaio de grupos de percussão, ter ampla iluminação solar e contar com instalações elétricas e sanitárias adequadas.
+
+Digital?
+
+Todas as atividades realizadas no Espaço Hub Parque Digital foram documentadas por iniciativa dos próprios usuários do Espaço e podem ser vistas (em vídeo) no YouTube:
+http://tinyurl.com/espaco-hub
+
+Quer saber mais?
+
+Este texto e dezenas de outros que descrevem o projeto estão disponíveis na internet em https://github.com/calangohc/espaco-hub
