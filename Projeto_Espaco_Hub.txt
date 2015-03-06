@@ -13,160 +13,217 @@ Um lugar para aprender
 Um lugar para fazer
 Um lugar para inovar
 Um lugar para empreender
-Índice
-
-Índice	2
-Índice de Ilustrações	3
-Objetivo	4
-Público alvo	4
-Justificativa	5
-O que é preciso para viabilizar o espaço HUB?	7
-atividades típicas para o espaço	10
-Histórico da iniciativa	11
+Um lugar para conviver
+Um lugar para compartilhar
 
 
-Índice de Ilustrações
 
-Figura 3: Localização do Espaço – Planta Alta	10
-Figura 4: Localização do Espaço – Vista Frontal	10
-Figura 1: Sucata de impressora Plotter	12
-Figura 2: Sucata de impressora Plotter sendo transformada em CNC	12
-Figura 5: Utilização do Anexo II em agosto de 2014	13
+1. Objetivos
 
+Estabelecer um espaço público para o desenvolvimento de atividades criativas e colaborativas nas áreas de arte, cultura, tecnologia e sustentabilidade, voltado à inovação e ao compartilhamento informal do conhecimento por meio de experiências e trocas de saberes entre indivíduos e coletivos.
 
-Objetivo
-
-Estabelecer um espaço público para atividades criativas e colaborativas nas áreas de arte, cultura, tecnologia e sustentabilidade, voltado à inovação e ao conhecimento obtido de maneira informal, através de experiências e trocas realizadas entre pessoas.
-
-Promover o encontro entre estudantes, artistas, músicos, programadores, engenheiros, hobistas e outros profissionais das mais diversas áreas do conhecimento, que, juntos, desejem realizar pesquisas, projetos e eventos, assim como outras atividades que agreguem seus conhecimentos e experiências, em um contexto que promova a de colaboração e a criatividade.
+Promover o encontro entre estudantes, artistas, músicos, programadores, engenheiros e outros profissionais e hobistas, das mais diversas áreas do conhecimento para que, juntos, realizem pesquisas, projetos, oficinas e eventos abertos ao público, em um ambiente que propicie o aprendizado e que promova a colaboração, a criatividade, a inovação tecnológica e artística em benefício da comunidade e do meio ambiente.
  
-Público alvo
+2. Público alvo
 
-O público alvo que o Espaço Hub Parque Digital pretende atender são todos aqueles interessados em aprender e exercer sua criatividade, sem restrições de formação, origem ou área de interesse. Neste sentido, são bem vindas crianças e jovens acompanhadas de seus pais, também adultos de todas as idades que tenham objetivo a intenção de aprender ou ensinar.
+O público que pleiteia o Espaço Hub Parque Digital é composto por indivíduos e coletivos interessados em aprender, compartilhar conhecimentos e exercer sua criatividade, sem restrições de formação, origem, gênero, faixa etária ou área de interesse. Neste conjunto existem crianças e adultos de todas as idades que compartilham a intenção de aprender, ensinar ou colaborar de diferentes formas.
 
-Justificativa
+3. Justificativa
 
-Nos dias de hoje as formas tradicionais de apropriação do conhecimento pelas sociedades já não conseguem mais acompanhar o ritmo das inovações da produção cultural e das novas descobertas da ciência e da tecnologia.
+Nos dias de hoje, as estruturas tradicionais de gestão do conhecimento, como escolas, universidades e bibliotecas, já não são suficientes sozinhas para acompanhar o ritmo das inovações culturais e das novas descobertas da ciência e da tecnologia.
 
-As novas tecnologias de fabricação, como as impressoras 3D e outras ferramentas controladas por computador permitem que a transição entre uma idéia e um produto final ocorra em questão de horas ao invés de meses, o que provoca profundas mudanças na forma como serviços e bens são ofertados à sociedade. Também são vastas as novas oportunidades de criação artística propiciadas por estas novas tecnologias.  Entender e participar destas mudanças são fundamentais para que, no século XXI, os indivíduos possam exercer plenamente a cidadania.
-
-Dessa forma, o grande risco para uma sociedade é se tornar uma mera consumidora de “caixas pretas”, manifestações culturais e artísticas, artefatos tecnológicos produzidos por outros países, em outros contextos, sem ter os mesmo conhecimentos e nem os meios para explorar o imenso potencial de conhecimento apresentado por estas tecnologias.
+As novas tecnologias de fabricação, como as impressoras 3D e outras ferramentas controladas por computador permitem que a transição entre uma idéia e um produto final ocorra em questão de horas, o que provoca profundas mudanças na forma como serviços e bens são ofertados à sociedade. Também são vastas as novas oportunidades de criação artística propiciadas por estas novas tecnologias. Entender e participar destas mudanças é fundamental para que, no século XXI, os indivíduos possam integrar-se aos novos modelos produtivos e para que possam exercer plenamente sua cidadania.
  
-Neste cenário, estão surgindo mundo afora espaços abertos ao público destinados á promover a apropriação do conhecimento, através da experimentação, da inovação e da criatividade, utilizando muitas vezes tecnologias simples e emergentes. Esses espaços apresentam variadas denominações, mas são semelhantes e apresentam quase as mesmas características, estes são locais que permitem o encontro, a interação, a colaboração e construção coletiva, formando atividades livres de pesquisa, com alto potencial em inovação tecnológica e social. 
+Abrir mão da participação nessa transição tecnológica coloca a sociedade em risco de tornar-se mera consumidora de produtos criados para os mercados de massa, muitas vezes importados, que não levam em consideração as especificidades ou necessidades das culturas e práticas locais. Estes bens de consumo, produzidos em outros contextos, sejam produtos, serviços ou manifestações artístico-culturais, quando consumidos acriticamente restringem as possibilidades de aprendizado das  tecnologias envolvidas e consequentemente o potencial de inovação da comunidade local para a solução de seus problemas específicos.
 
-Porque Hub?
+Neste cenário estão surgindo mundo afora espaços inovadores, abertos ao público com o objetivo de propiciar a apropriação do conhecimento por meio da experimentação coletiva e do exercício da criatividade, utilizando muitas vezes tecnologias simples e emergentes. Esses espaços apresentam variadas denominações, mas são semelhantes em essência por serem locais que promovem o encontro, a interação, a colaboração e a construção coletiva, estimulando atividades livres de pesquisa, com alto potencial de inovação tecnológica, social e ambiental. 
 
-Em informática, um hub é um concentrador, um dispositivo que permite a conexão e intercâmbio de dados entre vários computadores.
+3.1. Porque Hub?
 
-A proposta do Espaço Hub Parque Digital é servir como um concentrador, mas de pessoas. A idéia é que pessoas de diferentes interesses, formações e grupos sociais se conectem, sem filtros e sem hierarquias institucionais, realimentando seu entusiasmo através da conexão e da troca de conhecimento para a produção criativa.
+Em informática, um hub é um concentrador, um equipamento que permite a conexão e intercâmbio de dados entre vários dispositivos.
 
-Cada pessoa tem uma rede de conexões pessoais própria, e por vezes, as conexões entre as diferentes redes é fraca, com poucos elos em comum. Exemplos: O trabalho, a escola, o grupo de pesquisa, a faculdade ou as instituições tecnológicas. O Espaço HUB funcionaria como um ponto de interconexão de redes, criando mais vínculos entre pessoas que, a primeira vista, não se interligam.
+A proposta do Espaço Hub Parque Digital é servir como um concentrador, mas de pessoas e coletivos. A idéia é que pessoas de diferentes interesses, formações e grupos sociais se conectem, sem filtros ou hierarquias, realimentando seu entusiasmo através do convívio e da troca de conhecimento para a produção criativa.
 
-Porque um espaço público?
+O Espaço HUB funcionaria como um ponto de interconexão de redes, criando vínculos entre pessoas e coletivos que compartilham interesses mas que ainda não dispõem de um ambiente que promova a sua interação e engajamento em projetos comuns.
 
-O Espaço HUB, para que funcione em pleno potencial, precisa ser um local aberto ao público, com horário conveniente para permitir o acesso democrático de todos os interessados. Além disso, as atividades propostas para o espaço são de interesse de políticas públicas de pesquisa, elaboração e implementação em áreas como Educação, ciência e tecnologia, arte e cultura, inclusão social e meio ambiente, dentre outras.
+3.2. Porque um espaço público?
 
-As iniciativas desenvolvidas no espaço serão baseadas em tecnologias abertas, tanto de hardware quanto de software, permitindo sua rápida adoção e multiplicação, caso seja de interesse do poder público.
+As atividades desenvolvidas em espaços como o está sendo proposto, sejam no campo das novas tecnologias livres, da cultura, das artes ou do trabalho socioambiental, compartilham como filosofia básica o compartilhamento livre e irrestrito do conhecimento e das inovações produzidas, sem fins lucrativos. Deste alinhamento com a missão do serviço público, somado ao caráter não lucrativo dos coletivos e indivíduos envolvidos no movimento, surge a necessidade de que o espaço disponível para a realização das atividades coletivas seja público. Deste modo garante-se a gratuidade de acesso ao espaço, enquanto o mesmo não fica sujeito aos interesses particulares ou à interferência de entes privados.
 
+O Espaço HUB, para que funcione em pleno potencial, precisa ser um local aberto ao público, com horário conveniente para permitir o acesso democrático de todos os interessados, inclusive no período noturno, quando a maioria das pessoas encontra-se livre de seus compromissos diários. Além disso, o conhecimento gerado no espaço é de interesse do Estado para aplicação em suas políticas públicas, sejam de pesquisa, elaboração ou implementação em áreas como educação, ciência e tecnologia, arte e cultura, inclusão social e meio ambiente, dentre outras.
 
-Já existem outros espaços públicos como este?
+As iniciativas desenvolvidas no espaço serão baseadas em tecnologias abertas, tanto de hardware quanto de software, estando portanto prontamente disponíveis para rápida adoção e multiplicação tanto pelo poder público como por indivíduos ou coletivos da sociedade civil.
+3.3. Já existem outros espaços públicos como este?
 
-Sim, alguns no Brasil e muitos no exterior, em especial nos Estados Unidos e Europa.  
+Segundo o site hackerspaces.org, existem no momento 1145 espaços com o mesmo caráter do aqui proposto em funcionamento mundo afora, e o número é crescente. Especificamente em espaços públicos, já existem algumas experiências no Brasil e muitas no exterior, em especial nos Estados Unidos e Europa.  
 
-No Brasil:
+3.3.1. Alguns exemplos no Brasil:
 
-Espaço da câmara dos deputados – Lab-Hacker, com foco no desenvolvimento de softwares livres para acesso a dados de projetos da Câmara.
+Espaço Lab-Hacker da Câmara dos Deputados, com foco no desenvolvimento de software livre para a promoção da transparência dos dados de projetos e ações.
 
 http://edemocracia.camara.gov.br/web/laboratorio-hacker
 
-Prefeitura de São Paulo irá instalar 12 laboratórios públicos de fabricação digital:
+Na cidade de São Paulo, a Prefeitura está preparando a instalação de 12 laboratórios públicos de fabricação digital:
 
 http://info.abril.com.br/noticias/tecnologia-pessoal/2015/02/prefeitura-ira-instalar-12-fablabs-publicos-em-sao-paulo.shtml?utm_src=botaonoticia
 
 
-
-Exemplos no exterior:
+3.3.2. Alguns exemplos no exterior:
 
 http://www.epl.ca/makerspace
 http://www.missoulapubliclibrary.org/makerspace
 http://westportlibrary.org/services/maker-space
 
-O que é preciso para viabilizar o espaço HUB?
+4. O que é preciso para viabilizar o espaço HUB?
 
-Espaço físico
+4.1. Espaço físico
 
+Fundamentalmente, é imprescindível um espaço físico adequado, aberto ao público e de fácil acesso. O espaço deve ter áreas ao ar livre em suas proximidades, permitindo a realização de atividades eventuais que exijam mais espaço, como encontros temáticos e exposições de protótipos.
 
-Fundamentalmente, o mais importante é um espaço físico, coberto e com alguns serviços básicos, que seja aberto ao público e de fácil acesso. O espaço deverá estar nas proximidades de áreas ao ar livre, ser aberto ao público e em um local que permita atividades como eventos que exijam mais espaço e exposições de elementos e protótipos.
+O pleno desenvolvimento das atividades previstas requer uma sala de ao menos 100m2 com cadeiras, bancadas de trabalho e banheiro público nas proximidades. O espaço deverá contar com vigilância patrimonial, para reduzir o risco de danos à sua infra-estrutura. A disponibilidade de acesso público à internet seria desejável, mas sua falta não impediria o início do desenvolvimento das atividades.
 
-O ideal para começar seria uma sala de pelo menos 100m2, com bancos e bancadas de trabalho, com um banheiro público nas proximidades. O espaço deverá contar com vigilância patrimonial, para reduzir o risco de danos à sua infra-estrutura. Acesso público à internet seria desejável, mas não é um pré-requisito.
+Naturalmente, outros itens e equipamentos poderão ser necessários para o desenvolvimento de atividades futuras. Embora parte desses equipamentos serão fornecidos pelos próprios usuários do espaço, demandas de adequação e/ou ampliação poderão ser encaminhadas oportunamente ao poder público, que as atenderá ou não conforme suas possibilidades.
 
-Naturalmente, mais itens e equipamentos podem ser incluídos, mas não é prudente ou desejável começar um espaço como este com muita estrutura. Quando o espaço estiver sendo freqüentado regularmente, demandas de adequação e/ou ampliação naturalmente surgirão dos usuários, e serão avaliadas e atendidas conforme as possibilidades do poder público.
+4.2. Porque no parque da cidade?
 
+Para ser de fato democrático, o espaço precisa ser acessível aos usuários. O Parque da Cidade, por sua localização central em Brasília e horário de funcionamento das 05:00 às 24:00, é o local ideal para o estabelecimento do Espaço HUB. Além disso, o parque já conta com a infra-estrutura de apoio necessária (banheiros públicos e vigilância patrimonial), e áreas ao ar livre abertas ao público. Já foi utilizado experimentalmente com o propósito aqui apresentado durante o segundo semestre de 2014 e aprovado pelos participantes.
 
-Porque no parque da cidade?
+4.3. Funcionamento e Gestão do Espaço 
 
-Um espaço democrático precisa ser acessível. O Parque da Cidade, com sua localização central em Brasília e com horário de funcionamento das 05:00 às 24:00,  é o local ideal para o estabelecimento do Espaço HUB. Além disso, o parque já conta com a infra-estrutura de apoio necessária (banheiros públicos e vigilância patrimonial), e áreas ao ar livre abertas ao público.
+Entedemos o Espaço Hub Parque Digital deve ter um princípio de funcionamento similar ao de uma biblioteca, ou seja, um local para o qual os interessados se dirigem em busca de conhecimentos, mas também para ofertar conhecimentos e colaborar com projetos coletivos. Isso significa que sua dinâmica deverá priorizar o livre acesso dos interessados e que sua gestão deve ser de responsabilidade do coletivo proponente em parceria com a Direção do Parque.
+Por ser um espaço público, os cuidados em respeito às normas de uso dos equipamentos do Parque da Cidade e sua dinâmica de ocupação devem ser definidos de forma compartilhada entre os utilizadores e a Administração, potencializando, assim, o seu uso de forma horizontal e plural.
 
+4.4. Qual o custo para o GDF?
 
-Qual o custo para o GDF?
+O espaço solicitado encontra-se atualmente ocioso, do mesmo modo em que se encontrava antes do período experimental de ocupação durante o segundo semestre de 2014 (ver o ítem Histórico deste projeto).
+Para o funcionamento do local com condições mínimas de trabalho, além do próprio local aberto e limpo, seria necessário manter à disposição energia elétrica e um link de internet público.
+Quanto ao mobiliário, foram improvisadas bancadas com material reciclado que seria descartado, além de algumas mesas disponibilizadas pelos coletivos, mas estes foram retirados quando a cessão do espaço foi interrompida.
+Como o local abrigará equipamentos dos coletivos, além das bancadas e cadeiras, que poderiam ou não ser resgatadas, serão necessárias portas reforçadas e armários com chaves, bem como um diálogo permanente com a equipe de segurança do Parque, já existente, para que seja assegurada a preservação tanto do espaço como dos equipamentos nele disponíveis. 
+4.5. Proposta de Localização
 
-Custo adicional mínimo, já que serão utilizados estruturas e serviços já disponíveis no parque da cidade. Os custos seriam apenas os decorrentes do fluxo adicional de usuários ao parque da cidade para o uso do espaço. Este fluxo adicional é irrelevante face ao número de usuários que freqüenta diariamente o Parque da Cidade. 
-
-
-Gestão do espaço
-
-O Espaço será mantido como mais um equipamento urbano do Parque da Cidade e será gerido pela Direção do Parque da Cidade Dona Sarah Kubitschek. As normas de uso serão definidas de forma semelhante a de outros equipamentos do parque.
-
-
-Proposta de Localização
-O Anexo II da Administração do Parque da Cidade Dona Sarah Kubitschek é uma construção de cerca de 100m² que possui três salas, uma cozinha e dois banheiros. Este prédio se encontra atualmente sem uso, e até recentemente era utilizado como depósito de materiais (ver histórico – Figura 05). 
-
+Propõe-se a utilização do Anexo II da Administração do Parque da Cidade Dona Sarah Kubitschek. Trata-se de uma construção de cerca de 100m² composta por três salas, uma cozinha e dois banheiros. Este prédio, que já foi ocupado pelo Espaço Hub Digital, era previamente sub-utilizado como um depósito e atualmente encontra-se sem uso (ver Histórico). 
 
 
 
-Figura 1: Localização do Espaço - Planta Alta
+Localização do Espaço - Planta Alta
 
 
-Figura 2: Localização do Espaço - Vista Frontal
-
-atividades típicas para o espaço
+Localização do Espaço - Vista Frontal
 
 
-Aulas de eletrônica e programação de computadores;
-Experimentação em arte e tecnologia;
-Oficinas de musica com instrumentos alternativos;
-Desenvolvimento colaborativo de tecnologias livres;
-Desenvolvimento de projetos colaborativos para temas ambientais;
-Palestras sobre temas relacionados à arte, cultura, tecnologia e sustentabilidade;
+
+5. Atividades a serem realizadas no espaço
+
+- Aulas de eletrônica e programação de computadores;
+- Experimentação em arte e tecnologia;
+- Oficinas de musica com instrumentos alternativos;
+- Desenvolvimento colaborativo de tecnologias livres;
+- Desenvolvimento de projetos colaborativos para temas ambientais;
+- Palestras sobre temas relacionados à arte, cultura, tecnologia e sustentabilidade.
 
 
-Um exemplo de atividade no Espaço HUB:
+5.1. Exemplos de atividades passadas no Espaço HUB durante o período de ocupação experimental
+
+Seguem abaixo resumos de algumas das atividades que estavam em pleno andamento no Espaço HUB até o fechamento do mesmo. 
+
+5.1.1. Veículos Aéreos Não Tripulados – VANTs (“Coisas que voam”):
+
+Trata-se de um grupo de pesquisa que tem como objetivo construir VANTs (Veículos aéreos não tripulados) com base em tecnologia open hardware para uso em conservação da biodiversidade. Diversos encontros foram realizados no Espaço HUB em 2014, onde pessoas com diferentes conhecimentos uniram esforços para a construção do Jarucutu, um aeromodelo de asa fixa, parecido com um avião, e o Mangava, um multirotor, mais parecido com um helicóptero. Para ilustrar do potencial da iniciativa, seguem abaixo alguns exemplos de aplicações dessa tecnologia em desenvolvimento:
+
+- Obter fotografias e filmagens aéreas para auxiliar no senso de animais silvestres;
+- Obter fotografias nas bandas do visível e do infravermelho para avaliar a recuperação de áreas degradadas;
+- Auxiliar na detecção de animais utilizando rádio colares;
+- Retransmitir dados de diversos sensores de campo (sensores de temperatura, umidade, presença/passagem, imagens de armadilhas fotográficas etc);
+- Lançar e retransmitir áudio de sondas acústicas, para análise da paisagem acústica em áreas de difícil acesso;
+- Realizar filmagens com transmissão em tempo real para auxiliar em combates a incêndios florestais e atividades de fiscalização ambiental;
+
+VANT em vôo experimental durante encontro do grupo em local seguro para testes
+
+Mais detalhes sobre as atividades do grupo “Coisas que Voam” podem ser encontradas no link:
+
+http://calango.club/projetos:vant:inicio
+
+5.1.2. Grupo de Música Eletrônica Artesanal (“Music hacking”):
+
+Por que comprar sintetizadores e outros equipamentos eletrônicos de áudio se você pode criar os seus próprios? O “Music Hacking” é um grupo de estudos e experimentação em música eletrônica artesanal, que realizou e continua realizando oficinas onde os participantes constroem diversos dispositivos eletrônicos e programas de computador com a finalidade de criar música. As oficinas promovem a troca de saberes sobre eletrônica básica, sintetizadores, microcontroladores em plataformas de hardware livre, programação em linguagens livres, além de música, é claro.
+
+Music Hacking: não é em qualquer esquina que se encontra um berimbau elétrico
+
+Mais detalhes sobre as atividades de “Music Hacking” podem ser encontradas no link:
+
+http://calango.club/projetos:musichacking:inicio#grupo_de_musica_eletronica_artesanal
+
+
+5.1.3. Meta-reciclagem:
 
 A Meta-reciclagem é um conceito emergente que consiste na apropriação tecnológica e re-significação de sucatas de material tecnológico. 
 
-Ao invés de se tornar um lixo com grande potencial de contaminação, a sucata tecnológica é reutilizada para a construção de outros artefatos, as vezes com funções bem diferentes do uso inicial previsto pelo equipamento. Por exemplo, uma sucata de impressora de grande formato está sendo utilizada pelos participantes do Calango H4cker Clube para construir uma fresadora controlada por computador (CNC) para cortes de placas de circuitos eletrônicos.
-
-
-
-Figura 3: Sucata de impressora Plotter
+Ao invés de se tornar um lixo com grande potencial de contaminação, a sucata tecnológica é reutilizada para a construção de outros artefatos, às vezes com funções bem diferentes do uso inicial previsto pelo equipamento. Por exemplo, uma sucata de impressora de grande formato está sendo utilizada pelos participantes do Calango H4cker Clube para construir uma fresadora controlada por computador (CNC) para cortes de placas de circuitos eletrônicos.
 
 
 
 
-Figura 4: Sucata de impressora Plotter sendo transformada em CNC 
-Histórico da iniciativa
+Sucata de impressora Plotter sendo transformada em CNC 
 
-Até setembro de 2014, o Anexo II estava sendo utilizado apenas como depósito (Figura Abaixo), desperdiçando seu potencial para a promoção da cultura e atração de público. Em fins de setembro, o espaço foi arrumado e aberto em caráter experimental pela administração do Parque da Cidade para a realização de encontros presenciais de qualquer grupo interessado.
+Mais detalhes sobre o projeto “Plotter CNC” podem ser encontradas no link:
+
+http://calango.club/projetos:plotter_cnc
+
+
+5.1.4. Feira de exposição de protótipos (“I Mostra Eu que Fiz”):
+
+Em 25 de outubro de 2014 realizou-se no Espaço HUB a “I Mostra Eu que Fiz”, uma mini-mostra de protótipos similar às “Mini Maker Faires” que se realizam em diversas cidades ao redor do mundo todos os anos. Os participantes colocaram em exposição ao público em geral diversos protótipos funcionais por eles construídos e ficaram à disposição dos visitantes, adultos e crianças, para desvendar as técnicas e princípios aplicados às invenções. Calcula-se que pelo menos 60 pessoas passaram pelo evento.
+
+
+Material de divulgação da I Mostra Eu que Fiz no Espaço Hub
+
+Expositores e visitantes trocando informações sobre os protótipos no evento
+6. Histórico da iniciativa
+
+Até setembro de 2014, o Anexo II da Administração do Parque da Cidade estava sendo utilizado apenas como depósito (figura abaixo), desperdiçando seu potencial para a promoção da cultura e atração de público. Em fins de setembro, o espaço foi arrumado e aberto em caráter experimental pela Administração do Parque da Cidade para a realização de encontros presenciais de qualquer grupo interessado.
 
 
 
-Figura 5: Utilização do Anexo II em agosto de 2014
+Anexo II do Parque sub-utilizado em agosto de 2014
 
-Compareceram efetivamente os coletivos Arduino Brasília, Blogoosfero, Calango e Meta Reciclagem, desenvolvendo atividades condizentes com a proposta do espaço.
+Até seu fechamento, já haviam participado de atividades no Espaço HUB os coletivos Arduino Brasília, Blogoosfero, Calango Hacker Clube, Meta Reciclagem e Documenta Cerrado.
 
-A experiência foi encerrada em 30 de dezembro de 2014 por questões administrativas, mas foi um sucesso no ponto de vista de atividades, de usuários e do publico alvo que foi atendido durante esse período.
+Embora as atividades tenham sido encerradas em 30 de dezembro de 2014 por questões administrativas, as pessoas e coletivos que tiveram a oportunidade de frequentá-las consideraram a experiência um grande sucesso em termos de diversidade e de qualidade das atividades desenvolvidas.
 
-As atividades realizadas no Espaço durante seu funcionamento experimental foram documentadas por iniciativa dos próprios usuários do Espaço e podem ser vistas (em vídeo) no YouTube:
+As atividades realizadas no Espaço durante seu funcionamento experimental foram documentadas por iniciativa dos próprios usuários do Espaço, e podem ser vistas (em vídeo) no YouTube:
 
 http://tinyurl.com/espaco-hub
 
+
+
+
+
+SEGUE ABAIXO MINUTA DE CARTA DE APRESENTACAO DO PROJETO AO GDF:
+
+Brasília, XX de março de 2015.
+
+Excelentíssimo Senhor Fulano de Tal Secretário de Estado de Turismo do GDF
+
+Nós, participantes dos coletivos da sociedade civil do Distrito Federal abaixo subscritos, vimos respeitosamente apresentá-lo o Projeto Básico para Implantação do Espaço HUB Parque Digital, em anexo.
+
+Trata-se de uma demanda urgente para que o espaço público do Anexo II da Administração do Parque da Cidade Dona Sarah Kubitschek, atualmente sem uso, possa ser novamente utilizado para a continuidade das atividades que lá vinham sendo desenvolvidas por estes coletivos.
+
+Ressaltamos que a disponibilização de tal espaço é de suma importância para a continuidade e ampliação de tais atividades. Tratam-se de atividades coletivas, de cunho educativo, tecnológico, artístico-cultural e ambiental, sempre abertas ao público, nas quais o conhecimento é construído e compartilhado de modo livre para o benefício da sociedade. A suspensão da cessão do espaço por motivos administrativos em 30/12/2014 dificultou a continuidade das ações, pois não existe no Distrito Federal nenhum outro espaço público disponível com este caráter.
+
+Contando com a vossa compreensão e empenho, solicitamos a apreciação do Projeto e dos demais documentos em anexo, e esperamos poder voltar a desenvolver em plenitude nossas atividades o mais brevemente possível. Colocamo-nos à disposição para esclarecimentos ou providências que se fizerem necessárias.
+
+Como conjunto de coletivos, para este propósito, podemos ser contatado por meio dos(as) srs(as) Fulano e Cicrano, cujos contatos seguem abaixo:
+
+Fulano de Tal
+Membro do Coletivo Tal
+Telefone:
+E-mail:
+
+Cicrano de Tal
+Membro do Coletivo Tal
+Telefone:
+E-mail:
+
+Atenciosamente,
+
+ASSINATURAS com nome e respectivo(s) coletivo(s) do(s) qual(is) participa (opcional)
